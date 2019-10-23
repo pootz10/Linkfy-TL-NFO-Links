@@ -8,8 +8,8 @@
 // @history     1.1 - update regex to detect when url has only www.
 // @license     GNU
 // @require     https://code.jquery.com/jquery-2.1.1.min.js
-// @updateURL   https://raw.githubusercontent.com/pootz10/Linkfy-TL-NFO-Links/master/Linkfy_TL_NFO_Links.user.js
-// @downloadURL https://raw.githubusercontent.com/pootz10/Linkfy-TL-NFO-Links/master/Linkfy_TL_NFO_Links.user.js
+// @updateURL   https://github.com/pootz10/Linkfy-TL-NFO-Links/raw/master/Linkfy_TL_NFO_Links.user.js
+// @downloadURL https://github.com/pootz10/Linkfy-TL-NFO-Links/raw/master/Linkfy_TL_NFO_Links.user.js
 // @grant       GM_addStyle
 // @run-at      document-idle
 // ==/UserScript==
